@@ -1,0 +1,6 @@
+projects
+projects.dao
+projects.entity
+projects.exception
+projects.service
+provided.util

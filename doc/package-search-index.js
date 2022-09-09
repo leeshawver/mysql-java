@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"projects"},{"l":"projects.dao"},{"l":"projects.entity"},{"l":"projects.exception"},{"l":"projects.service"},{"l":"provided.util"}];updateSearchResults();
